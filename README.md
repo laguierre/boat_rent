@@ -2,7 +2,7 @@
 
 Beautiful Kayak Booking Demo App made with Flutter, with a great transitions and decorations.
 Inspired in Outcrowd's design "Mobile app - Rent a boat" [link](https://dribbble.com/shots/7520340-Mobile-app-Rent-a-boat).
-The full video in my Youtube channel [link](https://youtube.com/shorts/GBCF6Yu25xo) and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
+The full video in my Youtube channel [link](https://youtube.com/shorts/ODXSrANTDBw?feature=share) and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
 - PageController.
 - PageView.builder.
 - AnimationController.
