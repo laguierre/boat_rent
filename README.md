@@ -26,7 +26,6 @@ The full video in my Youtube channel [link](https://youtube.com/shorts/ODXSrANTD
 ## Getting Started
 
 **Packages used:**
-- provider: ^6.0.2 [link](https://pub.dev/packages/provider)
 - google_fonts: ^3.0.1 [link](https://pub.dev/packages/google_fonts)
 - provider: [link](https://pub.dev/packages/provider)
 - palette_generator [link](https://pub.dev/packages/palette_generator)
